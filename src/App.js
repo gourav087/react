@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="hero">
-        <h1>Welcome to My React Website</h1>
-        <p>This is a basic React website created for practice.</p>
+        <h1>Welcome to My live website</h1>
+        <p>This is for practice.</p>
         <button>Learn More</button>
       </header>
 
